@@ -1,0 +1,13 @@
+{
+    "name": "kirom/portfolio",
+    "require-dev": {
+        "maximebf/debugbar": "^1.14"
+    },
+    "authors": [
+        {
+            "name": "Baptiste Rosillon",
+            "email": "batros.web@gmail.com"
+        }
+    ],
+    "require": {}
+}
